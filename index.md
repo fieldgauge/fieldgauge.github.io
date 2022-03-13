@@ -1,4 +1,4 @@
-# Fieldgauge
+# Welcome!
 
 ## Content
 - [FAIT](fait) (Fieldgauge's Adventures In Technology): how-to guides and tinkering
